@@ -1,0 +1,7 @@
+*O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+R:Criamos um arquivo .GIT dentro do diretório atual. Isso é importante para que possamos criar nossos commits de nosso código.
+
+*Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+R:A área de preparação seria o local para podermos "modificarmos" os commits antes de realmente o criarmos no repositório. Graças a ela podemos criar nossos commits de maneira muito mais fácil e organizado, podendo assim escrever nossos códigos muito mais rápido.

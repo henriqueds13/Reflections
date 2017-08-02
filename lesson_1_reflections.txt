@@ -1,0 +1,29 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+R:A vantagem do comando diff é que ele mostra apenas as linhas de códigos que possuem diferenças entre os dois arquivos, não precisando assim ter que ler o código inteiro.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+R:Muitas vezes fazemos alguma modificação em algum código e acaba não saindo do jeito que queremos. Tendo acesso a todo o histórico do arquivo nos permite refazer o código do jeito anterior, ou até mesmo encontrar erros com o comando diff.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no  Google Docs?
+
+R:Prós: -Podemos configurar tempos lógicos para fazer commits, evitando assim que seja criado vários commits ou commits muito grandes;
+        -Facilita a procura de bugs ou erros no código.
+  Contra: -Podemos não configurar corretamente tempos lógicos para fazer commits, o que pode resultar em commits necessários que não foram feitos;
+
+ Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquantos outros, como o Google Docs, tratam cada arquivo separadamente?
+
+ R:Porque em programação muitas vezes precisamos fazer alterações em mais de um arquivo de uma vez, e com esse sistema fica bem mais fácil de rastrear e encontrar erros nos arquivos.
+
+ Como usar o git log e git diff para visualizar o historico dos arquivos?
+
+ R: Usa-se o git log para listar todos os commits dos arquivos, então usamos o git diff para comparar dois commits e ver o que foi alterado no código.
+
+ De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+ R:Com git checkout, caso queira testar algo em seu código, é possível retornar o código do jeito anterior a modificação, facilitando assim a correção de bugs no programa.
+
+ Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+ R:Para fazer commits dos meus códigos e assim facilitar o meu trabalho.

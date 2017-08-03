@@ -13,3 +13,7 @@ R:Com a área de preparação, posso adicionar várias modificações em um comm
 *Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 
 R:Quando queremos fazer alguma alteração sem modificar nosso projeto atual, por exemplo, fazer um modo mais fácil de um jogo que estamos fazendo, ou fazer um teste que exige varias alterações no código.
+
+*Como os diagramas ajudam a visualizar a estrutura de branches?
+
+R:Como os commits so reconhecem seus "pais", ou seja, o commit anterior a ele, um diagrama nos permite ver os commits anteriores a ele ou de outra estrutura de branche.

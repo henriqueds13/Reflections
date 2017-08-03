@@ -5,3 +5,7 @@ R:Criamos um arquivo .GIT dentro do diretório atual. Isso é importante para qu
 *Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
 R:A área de preparação seria o local para podermos "modificarmos" os commits antes de realmente o criarmos no repositório. Graças a ela podemos criar nossos commits de maneira muito mais fácil e organizado, podendo assim escrever nossos códigos muito mais rápido.
+
+*Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+R:Com a área de preparação, posso adicionar várias modificações em um commit antes de finalmente enviá-lo ao repositório. Assim, posso adicionar a quantidade de alterações de forma mais lógica em um commmit em vez de fazer um commit para cada alteração que fizer.

@@ -5,3 +5,7 @@ R: Sempre que for fazer algum projeto que ache interessante compartilhar com os 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 
 R:Porque nem sempre quero que alguma alteração ou adição do código seja alterado no arquivo local, por isso o ideal é fazer pull manualmente.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+R: Quando queremos copiar um repositório do GitHub para o nosso sistema de controle de versão, usamos o comando Git clone. Quando queremos fazer testes ou alterar nosso código sem perder o código original, criamos branches. E, finalmente, quando queremos copiar um repositório de alguém no GitHub para o nosso próprio perfil no site, usamos a função bifurcação.

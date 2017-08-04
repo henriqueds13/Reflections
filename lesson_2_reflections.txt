@@ -17,3 +17,11 @@ R:Quando queremos fazer alguma alteração sem modificar nosso projeto atual, po
 *Como os diagramas ajudam a visualizar a estrutura de branches?
 
 R:Como os commits so reconhecem seus "pais", ou seja, o commit anterior a ele, um diagrama nos permite ver os commits anteriores a ele ou de outra estrutura de branche.
+
+*Qual o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+R: O resultado da mesclagem de dois branches é a fusão deles em um branch só, ou seja, todos os commits aparecem no branche só, por isso ele é representado dessa forma no diagrama. 
+
+*Quais são os prós e os contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+R: A vantagem da mesclagem automática é a facilidade e agilidade que se tem em apenas digitar o comando git merge e o Git mesclar os dois branches de forma automática. A desvantagem é o fato de o Git não ter capacidade de interpretar e escolher qual o melhor código usar quando há conflito na mesclagem, nos obrigando a arrumar o erro nós mesmos.

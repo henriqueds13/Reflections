@@ -13,3 +13,7 @@ R: Quando queremos copiar um repositório do GitHub para o nosso sistema de cont
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 
 R:Tendo uma cópia do ultimo branche remoto local, é possivel combinar alterações conflitantes com os ultimos branches atuais, podendo assim melhorar o código escrito.
+
+Como você colaboraria sem usar o Git ou GitHub? O que seria mais fácil e mais difícil?
+
+R:Um meio de colaborar seria mandar as alterações dos códigos por e-mail ou alguma rede online. O maior problema no caso seria ter que copiar todo o código ou alteração manualmente.

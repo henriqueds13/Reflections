@@ -9,3 +9,7 @@ R:Porque nem sempre quero que alguma alteração ou adição do código seja alt
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 
 R: Quando queremos copiar um repositório do GitHub para o nosso sistema de controle de versão, usamos o comando Git clone. Quando queremos fazer testes ou alterar nosso código sem perder o código original, criamos branches. E, finalmente, quando queremos copiar um repositório de alguém no GitHub para o nosso próprio perfil no site, usamos a função bifurcação.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+R:Tendo uma cópia do ultimo branche remoto local, é possivel combinar alterações conflitantes com os ultimos branches atuais, podendo assim melhorar o código escrito.

@@ -17,3 +17,7 @@ R:Tendo uma cópia do ultimo branche remoto local, é possivel combinar alteraç
 Como você colaboraria sem usar o Git ou GitHub? O que seria mais fácil e mais difícil?
 
 R:Um meio de colaborar seria mandar as alterações dos códigos por e-mail ou alguma rede online. O maior problema no caso seria ter que copiar todo o código ou alteração manualmente.
+
+Quando você gostaria e fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+R:Quando trabalhamos com outras pessoas e queremos fazer alguma alteração no código e precisamos ouvir a opinião dessas pessoas antes de modificar o master.
